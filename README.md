@@ -20,7 +20,11 @@ Sincerely,
 -- 
 
 Smit Doshi
+
 [stdoshi@ncsu.edu]
+
 www.linkedin.com/in/smit-doshi1
+
 Masters in Computer Science,
+
 NC State University
