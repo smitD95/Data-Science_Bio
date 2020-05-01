@@ -21,10 +21,6 @@ Sincerely,
 
 Smit Doshi
 
-[stdoshi@ncsu.edu]
+[smit.t.doshi@gmail.com]
 
 www.linkedin.com/in/smit-doshi1
-
-Masters in Computer Science,
-
-NC State University
